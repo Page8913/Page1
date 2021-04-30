@@ -1,0 +1,13 @@
+﻿  agent.cpp
+  basic.cpp
+  hunter.cpp
+E:\My program\Chase\GroupChaseEscapeYPZ\hunter.cpp(34,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\My program\Chase\GroupChaseEscapeYPZ\hunter.cpp(56,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  prey.cpp
+E:\My program\Chase\GroupChaseEscapeYPZ\prey.cpp(42,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\My program\Chase\GroupChaseEscapeYPZ\prey.cpp(74,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  seqAndMin.cpp
+E:\My program\Chase\GroupChaseEscapeYPZ\seqAndMin.cpp(209,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\My program\Chase\GroupChaseEscapeYPZ\seqAndMin.cpp(186,8): warning C4101: “theAngle”: 未引用的局部变量
+  正在生成代码...
+  GroupChaseEscapeYPZ.vcxproj -> E:\My program\Chase\GroupChaseEscapeYPZ\Debug\GroupChaseEscapeYPZ.exe
